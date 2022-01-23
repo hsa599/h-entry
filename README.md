@@ -16,7 +16,7 @@ For collecting and handling issues with the h-entry vocabulary specification:
 </article>
 ```
 
-##u-video
+## u-video
 
 ```html
 <div class="h-entry">
